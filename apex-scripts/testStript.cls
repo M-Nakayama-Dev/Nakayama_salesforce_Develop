@@ -4,6 +4,7 @@ public class test {
     public test() {
 
                 System.debug(loggingLevel.Error, '*** object: ');
+
     }
 
 }
